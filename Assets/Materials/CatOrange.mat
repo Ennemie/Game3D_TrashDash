@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CatOrange
-  m_Shader: {fileID: 108, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: 93d8fc18fdc65dd4aa903210d93f3343, type: 3}
   m_Parent: {fileID: 2100000, guid: 11a0d3ec49f92f54996214abdc26076e, type: 2}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords: []
@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 1dde8fb2f7d6df74a84e5967afe3417a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2b9bb72d71c46cc42b3e8acb15fe2517, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []

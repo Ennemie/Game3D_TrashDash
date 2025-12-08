@@ -40,6 +40,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.ai.navigation": {
+      "version": "2.0.9",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -184,6 +193,15 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.postprocessing": {
+      "version": "3.5.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.profiling.core": {

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering.PostProcessing;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class PlayerController : MonoBehaviour
     public float jumpForce;
     public SettingData settingData;
     public GameObject fishBoneEffect;
+    public PostProcessVolume volumeObj;
 
     private Rigidbody rb;
     private BoxCollider collider;
@@ -39,6 +41,9 @@ public class PlayerController : MonoBehaviour
 
         canJump = true;
         canSprint = true;
+
+        settingData.isDead = false;
+        volumeObj.enabled = false;
     }
 
     void FixedUpdate()
@@ -128,6 +133,8 @@ public class PlayerController : MonoBehaviour
             settingData.gameStart = false;
             animator.SetBool("Dead", true);
             animator.SetTrigger("Hit");
+            volumeObj.enabled = true;
+            settingData.isDead = true;
         }
     }
 }

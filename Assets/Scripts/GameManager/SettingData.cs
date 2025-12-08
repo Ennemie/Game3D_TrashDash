@@ -7,4 +7,5 @@ public class SettingData : ScriptableObject
     public bool gameEnd;
     public float volume;
     public int fishBoneCount;
+    public bool isDead;
 }
