@@ -283,39 +283,13 @@ Assets/Scenes/
 
 ---
 
-# 📸 Screenshots
-
-## Gameplay
-
-<p align="center">
-  <img src="docs/images/gameplay.png" width="850" alt="Trash Dash Gameplay">
-</p>
-
-## Environment
-
-<p align="center">
-  <img src="docs/images/environment.png" width="850" alt="Trash Dash Environment">
-</p>
-
-## UI
-
-<p align="center">
-  <img src="docs/images/ui.png" width="850" alt="Trash Dash UI">
-</p>
-
-> 📌 Tạo thư mục `docs/images/` và thêm screenshot thực tế của game vào đây.
-
----
-
 # 🎥 Demo Video
 
-> 🚧 Gameplay video coming soon.
 
-Sau khi upload video lên YouTube, có thể thay phần này bằng thumbnail:
 
-```markdown
-[![Trash Dash Gameplay](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
+https://github.com/user-attachments/assets/d294a7f9-99de-4903-b578-22f81ea4fc34
+
+
 
 ---
 
