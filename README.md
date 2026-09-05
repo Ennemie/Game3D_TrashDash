@@ -208,38 +208,6 @@ Repository hiện có riêng `WebGLBuild`, `WindowsBuild` và `WebGLBuild.zip`, 
 
 ---
 
-# ▶️ Play The Game
-
-## 🌐 WebGL
-
-Project có sẵn thư mục:
-
-```text
-WebGLBuild/
-```
-
-Nếu build WebGL đã được publish lên hosting, có thể thêm link:
-
-```text
-🎮 Play in Browser
-https://your-webgl-link.com
-```
-
-> 💡 Đây nên là phần nổi bật nhất của README nếu bạn có link WebGL online.
-
----
-
-## 🪟 Windows
-
-Project cũng có:
-
-```text
-WindowsBuild/
-```
-
-Bạn có thể tải Windows build từ GitHub hoặc Releases.
-
----
 
 # 🚀 Open The Project
 
