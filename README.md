@@ -1,4 +1,4 @@
-# 🐶 Trash Dash
+# Trash Dash
 
 ### 🎮 3D Endless Runner Game
 
